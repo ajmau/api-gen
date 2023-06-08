@@ -4,7 +4,7 @@ Simple Clojure program that generates API from given sqlite database.
 
 ## Usage
 
-lein run <API name> <database path>
+lein run \<API name\> \<database path\>
 
 ## License
 
