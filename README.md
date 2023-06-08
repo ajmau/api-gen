@@ -1,10 +1,10 @@
 # api-gen
 
-A Clojure library designed to ... well, that part is up to you.
+Simple Clojure program that generates API from given sqlite database.
 
 ## Usage
 
-FIXME
+lein run <API name> <database path>
 
 ## License
 
